@@ -14,6 +14,10 @@ def demo_zip():
 
     for v1, v2, v3 in zip(values1, values2, values3):
         print("v1 =", v1, ";  v2 =", v2, ";  v3 =", v3, ";  sum =", v1 + v2 + v3)
+def demo_map():
+    # TODO...
+    # WIP ... work in progress...
+    pass
 
 def main():
     # print("Hello main")
